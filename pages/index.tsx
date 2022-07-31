@@ -9,6 +9,7 @@ import Sertifikat from "../components/Sertifikat";
 import Contact from "../components/Contact";
 import Main from "./../components/Main";
 import About from "../components/About";
+import "../styles/globals.css";
 
 const Home: NextPage = () => {
   useEffect(() => {
